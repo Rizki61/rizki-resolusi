@@ -7,3 +7,4 @@ RENACANA BELAJAR
 -strukutur
 tambah framework node js
 tambah framework laravel
+tambah nuxt js
