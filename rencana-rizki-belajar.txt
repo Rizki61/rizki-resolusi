@@ -4,4 +4,7 @@ RENACANA BELAJAR
 (fundamental)
 - LARAVEL EXPERT
 (fundamental)
--strukutur
+
+
+react angular
+laravel
