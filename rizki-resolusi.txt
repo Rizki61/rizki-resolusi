@@ -1,0 +1,4 @@
+rizki resolusi
+- Belajar Tailwind
+- Belajar Javascript
+- Belajar PHP
